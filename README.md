@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NeutralAlice
-- 👀 I’m interested in machine learning for diagnostic medicine purposes
-- 🌱 I’m currently learning assay development and robotic assistance to run assays
-- 📫 How to reach me - github
+- 👋 Hi, I’m @NeutralAlice, arita, or whatever
+- 👀 I’m interested in machine learning for diagnostic medicine purposes, I also like to mess with sysadmin tools
+- 🌱 I’m currently working on assay development and robotic assistance to run the assays; particularly the robotic assistance is being doing on machines by Tecan, Skalar, Bruker, and FOSS.
+- 📫 hit me up at github or twitter @aritashion
 
 <!---
 NeutralAlice/NeutralAlice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
