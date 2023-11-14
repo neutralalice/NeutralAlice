@@ -1,5 +1,6 @@
 - 👗 Hi, I’m arita, or whatever you want to call me.
-- Former: Infectious disease laboratory scientist, devops engineer. Current: Scientific computational engineer
+- Former: Infectious disease laboratory scientist, devops engineer.
+- Current: Scientific computational engineer
 
 
 <!---
